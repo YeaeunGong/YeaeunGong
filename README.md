@@ -8,10 +8,12 @@ When I'm not doing research, I occasionally listen to music, watch youtube and w
 
 ## Affiliations 
 > **2019-2022 Seoul National University**
->	> M.S. in Cognitive Science
+
+>	            M.S. in Cognitive Science
 
 > **2014-2019 Yonsei University**
->	> B.A. in Psychology & Cognitive Science
+
+>	            B.A. in Psychology & Cognitive Science
 
 
 

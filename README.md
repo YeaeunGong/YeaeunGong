@@ -1,4 +1,6 @@
-Hi, I am a MS student in Cognitive Science at Seoul National University. My research interests are broadly in helping experts and people make better decisions, *i.e., incresing the transparency of machine learning algorithms that support human decision making.* When I'm not doing research, I occasionally listen to music, watch youtube and walk with my puppy, ggomuli. 
+Hi, I am a MS student in Cognitive Science at Seoul National University. My research interests are broadly in helping experts and people make better decisions, *i.e., incresing the transparency of machine learning algorithms that support human decision making.* When I'm not doing research, I occasionally listen to music, watch youtube and walk with my puppy, ggomuli. Below is the picture of me(right) and ggomuli, with my best friend Bomi Kim(left).
+
+
 
 ## Affiliations 
 > 2019-2022 **Seoul National University**

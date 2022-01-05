@@ -1,7 +1,5 @@
 Hi, I am a MS student in Cognitive Science at Seoul National University. My research interest are broadly in helping experts and people make better decisions, i.e., incresing the transparency of machine learning algorithms that support human decision making. When I'm not doing research, I occasionally listen to music, watch youtube and walk with my puppy, ggomuli.
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-
 
 ## Affiliations 
 > 2019-2022 Seoul National University

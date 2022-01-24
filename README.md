@@ -45,6 +45,7 @@ Email: gye1121 [at] snu.ac.kr
 
 ## Books
 > *2021* translated **Big Data (Criminology at the Edge) 1st edition** 
+
 > *2022* translated **Big Data in psychological research** 
 
 ## Honars and Awards

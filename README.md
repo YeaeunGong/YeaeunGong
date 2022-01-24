@@ -50,7 +50,9 @@ Email: gye1121 [at] snu.ac.kr
 
 ## Honars and Awards
 > **Undergraduate fellowship (merit-based)** *2014(1st semester)*
+
 > **Academic Excellence Award** *2015(1st semester)*
+
 > **Academic Excellence Award** *2018(1st semester)*
 
 

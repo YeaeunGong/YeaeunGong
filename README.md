@@ -20,6 +20,8 @@ When I'm not doing research, I occasionally listen to music, watch youtube and w
 ## Contact 
 Email: gye1121 [at] snu.ac.kr
 
+Lab: Cognitive Computing Lab (http://cclab.snu.ac.kr/@people)
+
 
 <!---
 YeaeunGong/YeaeunGong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

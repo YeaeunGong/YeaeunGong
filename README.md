@@ -6,6 +6,9 @@ When I'm not doing research, I occasionally listen to music, watch youtube and w
   <img src= "https://user-images.githubusercontent.com/97169006/148239162-13027886-b5d1-4099-8714-757631cb36d1.jpeg" width="550" height="400">
 </p>
 
+## Contact Information
+Email: gye1121 [at] snu.ac.kr
+
 ## Affiliations 
 > **2019-2022 Seoul National University**
 
@@ -14,11 +17,42 @@ When I'm not doing research, I occasionally listen to music, watch youtube and w
 > **2014-2019 Yonsei University**
 
 >	            B.A. in Psychology & Cognitive Science
+ 
+
+## Projects & Experiences 
+> **Administative Assistant in The Korean Society for Cognitive Science**
+>	            Experience period: 2021.11.01 ~ 2022.02.28
+
+> **Advanced Technology based on Fact-check using AI**
+>	            Project period: 2021.09.01 ~ 2021.11.30
+
+> **Human-AI Interaction Project**
+>	            Project period: 2020.06.01 ~ 2020.12.31
+
+> **Mobile Application for Behavior Learning and Education**
+>	            Project period: 2019.03.01 ~ 2022.08.31
+
+> **Big Data Analysis of Educational Game Log Data**
+>	            Project period: 2019.10.01 ~ 2020.01.31
+
+> **Exhibition for Victions of Sexual Violence**
+>	            Project period: 2016.07.01 ~ 20116.12.31
+>	            Participation role: project manager
 
 
+## Workshop Papers
+> **Poster Presentations**
+>	            Yeaeun Gong, Dayae Song, Jeong Ryu. 2020. Cognitive approach to fiction narrative: Recalling the plot as an active reader, in Korea Conference of Cognitive Science 2020.
 
-## Contact 
-Email: gye1121 [at] snu.ac.kr
+## Books
+> translated **Big Data (Criminology at the Edge) 1st edition** *2021*
+> translated **Big Data in psychological research** *2022**
+
+## Honars and Awards
+> **Undergraduate fellowship (merit-based)** *2014(1st semester)*
+> **Academic Excellence Award** *2015(1st semester)*
+> **Academic Excellence Award** *2018(1st semester)*
+
 
 
 <!---

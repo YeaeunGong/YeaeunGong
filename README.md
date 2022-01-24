@@ -41,6 +41,7 @@ Email: gye1121 [at] snu.ac.kr
 
 ## Workshop Papers
 > **Poster Presentations**
+> 
 >	            Yeaeun Gong, Dayae Song, Jeong Ryu. 2020. Cognitive approach to fiction narrative: Recalling the plot as an active reader, in Korea Conference of Cognitive Science 2020.
 
 ## Books

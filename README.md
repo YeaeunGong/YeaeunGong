@@ -17,6 +17,15 @@ When I'm not doing research, I occasionally listen to music, watch youtube and w
 
 
 
+## Contact 
+Cognitive Computing Lab, Department of Intelligence_Information_Convergence_Science
+Seoul National University
+Room 212, Building D, 145 Gwanggyo-ro,
+Yeongtong-gu, Suwon, Gyeonggi-do, Republic of Korea
+
+Email: gye1121 [at] snu.ac.kr
+
+
 <!---
 YeaeunGong/YeaeunGong is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
